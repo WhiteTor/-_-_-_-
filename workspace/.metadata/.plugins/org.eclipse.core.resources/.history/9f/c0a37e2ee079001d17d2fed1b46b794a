@@ -1,5 +1,7 @@
 package Korean_Wave;
 
+import java.util.*;
+
 // 주석 2: 상속할 클래스 생성, 한류에 대한 설명, main에서 1 입력시 구현되는 내용입니다.
 
 public class meaning_of_koreanwave extends ask_continue implements interface_korean_wave_list{   //주석 2, 주석 3: 클래스 상속 및 인터페이스 구현 클래스 선언
